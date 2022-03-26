@@ -5,5 +5,6 @@ Git tracks changes.
 hahahahah 666
 huzhiming hahah
 huzhimingshishuia1565656556
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
+
 
