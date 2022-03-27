@@ -16,3 +16,4 @@ Git is free free software distributed under the GPL.
 123456
 123456 -dev
 >>>>>>> Stashed changes
+123456789-dev1
