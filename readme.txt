@@ -10,3 +10,4 @@ Creating a new branch is quick and simple.
 123456789
 78789789789
 Git is free free software distributed under the GPL.
+123456-fix bug 101
